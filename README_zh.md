@@ -2,4 +2,4 @@
 
 TigaUI is a high quality Vue component library
 
-[Documentation](https://tigaui.tigateam.com)
+[中文文档](https://tigaui.tigateam.com)
