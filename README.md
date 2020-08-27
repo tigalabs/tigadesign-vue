@@ -10,7 +10,7 @@ English | [中文](README_zh.md)
 
 `TigaUI` is a high quality component library based on `vue3.x`
 
-### Official Website
+### :bell: Official Website
 
 [WebSite  https://tigaui.tigateam.com](https://tigaui.tigateam.com)
 
@@ -19,6 +19,10 @@ English | [中文](README_zh.md)
 ## :large_blue_diamond: Example
 
 ## :eight_spoked_asterisk: Features
+
+* :white_check_mark: 栅格系统
+* :white_check_mark: 按钮
+* :white_large_square: 表格
 
 ## :leaves: Architecture
 
@@ -34,7 +38,8 @@ English | [中文](README_zh.md)
 
 ## :clap: Thanks
 
-[Element - 网站快速成型工具](https://element.eleme.cn/#/zh-CN)
+* :green_heart: [Element](https://element.eleme.cn/#/zh-CN)
+* :green_heart: [ViewUI](https://iviewui.com/)
 
 ## :copyright: License
 

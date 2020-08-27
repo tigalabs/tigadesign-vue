@@ -20,6 +20,10 @@
 
 ## :eight_spoked_asterisk: 项目特点
 
+* :white_check_mark: 栅格系统
+* :white_check_mark: 按钮
+* :white_large_square: 表格
+
 ## :leaves: 项目架构
 
 ## :gem: 使用方法
@@ -34,7 +38,8 @@
 
 ## :clap: 鸣谢
 
-[Element - 网站快速成型工具](https://element.eleme.cn/#/zh-CN)
+* :green_heart: [Element](https://element.eleme.cn/#/zh-CN)
+* :green_heart: [ViewUI](https://iviewui.com/)
 
 ## :copyright: 版权信息
 
