@@ -1,14 +1,14 @@
 # tiga-ui
 
-## 国际化
+## :large_blue_circle: 国际化
 
 [English](README.md) | 中文
 
-## 内容目录
+## :book: 内容目录
 
-## 项目介绍
+## :information_source: 项目介绍
 
-TigaUI is a high quality Vue component library
+`TigaUI` 是一个基于 `Vue3.x` 的高质量组件库
 
 ### 官网
 
@@ -37,4 +37,5 @@ TigaUI is a high quality Vue component library
 [Element - 网站快速成型工具](https://element.eleme.cn/#/zh-CN)
 
 ## 版权信息
+
 [MIT License](LICENSE)
