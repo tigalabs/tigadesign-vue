@@ -20,9 +20,10 @@ English | [中文](README_zh.md)
 
 ## :eight_spoked_asterisk: Features
 
-* :white_check_mark: 栅格系统
-* :white_check_mark: 按钮
-* :white_large_square: 表格
+* :white_check_mark: Button 按钮
+* :white_large_square: Container 布局容器
+* :white_large_square: Icon 图标
+* :white_large_square: Link 链接
 
 ## :leaves: Architecture
 
