@@ -14,28 +14,28 @@ English | [中文](README_zh.md)
 
 [WebSite  https://tigaui.tigateam.com](https://tigaui.tigateam.com)
 
-## Demo
+## :foggy: Demo
 
-## Example
+## :large_blue_diamond: Example
 
-## Features
+## :eight_spoked_asterisk: Features
 
-## Architecture
+## :leaves: Architecture
 
-## Installation
+## :gem: Installation
 
-## Authors
+## :stuck_out_tongue_winking_eye: Authors
 
-## Contributors
+## :stars: Contributors
 
-## Donators
+## :coffee: Donators
 
-## Sponsors
+## :moneybag: Sponsors
 
-## Thanks
+## :clap: Thanks
 
 [Element - 网站快速成型工具](https://element.eleme.cn/#/zh-CN)
 
-## License
+## :copyright: License
 
 [MIT License](LICENSE)
