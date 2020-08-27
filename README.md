@@ -1,27 +1,46 @@
-<!--
- * @LastEditTime: 2020-04-08 12:39:53
- * @Description: readme
- -->
 # tiga-ui
 
-#### 介绍
-TigaUI是一个高质量的Vue组件库
+## :large_blue_circle: Internationalization
 
-#### 软件架构
-基于 vue-cli 
+English | [中文](README_zh.md)
 
+## :book: Contents
 
-#### 安装教程
+## :information_source: Introductions
 
-npm i -s @tigateam/tiga-ui
+`TigaUI` is a high quality component library based on `vue3.x`
 
-#### 使用说明
+### :bell: Official Website
 
+[WebSite  https://tigaui.tigateam.com](https://tigaui.tigateam.com)
 
-#### 参与贡献
+## :foggy: Demo
 
-1.  Fork 本仓库
-2.  新建 feature_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+## :large_blue_diamond: Example
 
+## :eight_spoked_asterisk: Features
+
+* :white_check_mark: 栅格系统
+* :white_check_mark: 按钮
+* :white_large_square: 表格
+
+## :leaves: Architecture
+
+## :gem: Installation
+
+## :stuck_out_tongue_winking_eye: Authors
+
+## :stars: Contributors
+
+## :coffee: Donators
+
+## :moneybag: Sponsors
+
+## :clap: Thanks
+
+* :green_heart: [Element](https://element.eleme.cn/#/zh-CN)
+* :green_heart: [ViewUI](https://iviewui.com/)
+
+## :copyright: License
+
+[MIT License](LICENSE)
