@@ -3,6 +3,6 @@
 
 <script>
 export default {
-  name: "TgButton",
+  name: "TgAlert",
 };
 </script>
