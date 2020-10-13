@@ -1,8 +1,8 @@
-import TgButton from './src/button.vue';
+import TButton from './src/index.vue'
 
-// 使组件可以被单个引入
-TgButton.install = function (Vue) {
-    Vue.component(TgButton.name, TgButton);
-};
+TButton.install = function (Vue) {
+  Vue.component(TButton.name, TButton)
+}
 
-export default TgButton;
+// 导出组件
+export default TButton
