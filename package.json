@@ -1,7 +1,7 @@
 {
   "name": "@tigateam/tiga-ui",
-  "version": "0.0.5",
-  "description": "tiga-ui is a high quality Vue component library",
+  "version": "0.0.6",
+  "description": "High-quality component library based for vue3.0",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
