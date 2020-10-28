@@ -12,7 +12,7 @@ English | [中文](README_zh.md)
 
 ### :bell: Official Website
 
-[WebSite  https://tigaui.tigateam.com](https://tigaui.tigateam.com)
+[WebSite https://tigaui.tigateam.com](https://tigaui.tigateam.com)
 
 ## :foggy: Demo
 
