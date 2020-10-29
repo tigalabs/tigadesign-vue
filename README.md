@@ -8,7 +8,7 @@ English | [中文](README_zh.md)
 
 ## :information_source: Introductions
 
-`TigaUI` is a high quality component library based on `vue3.x`
+`TigaUI` is a high quality component library based on `vue2.x`
 
 ### :bell: Official Website
 
