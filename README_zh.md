@@ -8,7 +8,7 @@
 
 ## :information_source: 项目介绍
 
-`TigaUI` 是一个基于 `Vue3.x` 的高质量组件库
+`TigaUI` 是一个基于 `Vue2.x` 的高质量组件库
 
 ### :bell: 官网
 
