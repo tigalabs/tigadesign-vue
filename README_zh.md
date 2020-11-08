@@ -90,7 +90,7 @@
 
 ### :dizzy: 社区交流
 
-<img width="200px" src="https://cdn.jsdelivr.net/gh/misitebao/CDN@master/md/QQ图片20201108235900.jpg"/>
+<img width="350px" src="https://cdn.jsdelivr.net/gh/misitebao/CDN@master/md/QQ图片20201108235900.jpg"/>
 
 ## :coffee: 捐赠者
 
