@@ -12,7 +12,7 @@ English | [中文](README_zh.md)
 
 ### :bell: Official Website
 
-[WebSite  https://tigaui.tigateam.com](https://tigaui.tigateam.com)
+[WebSite https://tigaui.tigateam.com](https://tigaui.tigateam.com)
 
 ## :foggy: Demo
 
@@ -20,10 +20,10 @@ English | [中文](README_zh.md)
 
 ## :eight_spoked_asterisk: Features
 
-* :white_check_mark: Button 按钮
-* :white_large_square: Container 布局容器
-* :white_large_square: Icon 图标
-* :white_large_square: Link 链接
+- :white_check_mark: Button 按钮
+- :white_large_square: Container 布局容器
+- :white_large_square: Icon 图标
+- :white_large_square: Link 链接
 
 ## :leaves: Architecture
 
@@ -33,14 +33,18 @@ English | [中文](README_zh.md)
 
 ## :stars: Contributors
 
+[Contributors](https://github.com/tigateam/tiga-ui/graphs/contributors)
+
+### :dizzy: Community Exchange
+
 ## :coffee: Donators
 
 ## :moneybag: Sponsors
 
 ## :clap: Thanks
 
-* :green_heart: [Element](https://element.eleme.cn/#/zh-CN)
-* :green_heart: [ViewUI](https://iviewui.com/)
+- :green_heart: [Element](https://element.eleme.cn/#/zh-CN)
+- :green_heart: [ViewUI](https://iviewui.com/)
 
 ## :copyright: License
 
