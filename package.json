@@ -1,0 +1,22 @@
+{
+  "name": "@tigateam/tiga-ui",
+  "version": "1.0.0",
+  "description": "TigaUI is a high quality component library based on `vue2.x`",
+  "main": "index.js",
+  "scripts": {
+    "serve:doc": "vuepress dev docs",
+    "build:doc": "vuepress build docs",
+    "build:lib": "aaaa",
+    "serve:example": "aaaa"
+  },
+  "keywords": [
+    "",
+    ""
+  ],
+  "author": "TigaTeam",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.7.1",
+    "vuepress": "^1.7.1"
+  }
+}
