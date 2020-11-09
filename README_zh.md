@@ -2,7 +2,7 @@
 
 ## :large_blue_circle: <span id="国际化"></span>国际化
 
-[English](README.md) | 中文
+[English](README.md) | 简体中文
 
 ## :book: <span id="内容目录"></span>内容目录
 

@@ -2,7 +2,7 @@
 
 ## :large_blue_circle: <span id="Internationalization"></span>Internationalization
 
-English | [中文](README_zh.md)
+English | [简体中文](README_zh.md)
 
 ## :book: <span id="Contents"></span>Contents
 
