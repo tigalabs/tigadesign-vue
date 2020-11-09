@@ -1,0 +1,11 @@
+node_modules
+build
+docs
+src
+
+.github
+.gitee
+.gitignore
+.npmignore
+
+babel.config.js

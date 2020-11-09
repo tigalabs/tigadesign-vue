@@ -1,4 +1,4 @@
-<--Please answer these questions before you submit a bug. | 请在您提交 bug 之前，回答以下这些问题。-->
+<--Please answer these questions before you submit a Issue. | 请在您提交 Issue 之前，回答以下这些问题。-->
 
 ## 1. Your usage scenarios? | 您使用的场景？
 
