@@ -6,7 +6,10 @@
   "scripts": {
     "serve:doc": "vuepress dev docs",
     "build:doc": "vuepress build docs",
-    "build:lib": "aaaa",
+    "build:lib:all": "webpack --config build/build-lib-all.js",
+    "build:lib:components": "webpack --config build/build-lib-components.js",
+    "build:lib:styles": "",
+    "build:lib": "npm run build:lib:all && build:lib:components && npm run build:lib:styles",
     "serve:example": "aaaa"
   },
   "keywords": [
