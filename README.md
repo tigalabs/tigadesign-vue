@@ -1,68 +1,88 @@
-# tiga-ui
+# Tigaui
 
-## :large_blue_circle: <span id="Internationalization"></span>Internationalization
+<span id="nav-1"></span>
 
-English | [简体中文](README_zh.md)
+## 🌏 Internationalization
 
-## :book: <span id="Contents"></span>Contents
+English | [简体中文](README.zh_hans.md)
 
-- [Internationalization](#Internationalization)
-- [Contents](#Contents)
-- [Introductions](#Introductions)
-  - [OfficialWebsite](#OfficialWebsite)
-- [Demo](#Demo)
-- [Example](#Example)
-- [Features](#Features)
-- [Architecture](#Architecture)
-- [Installation](#Installation)
-- [Authors](#Authors)
-- [Contributors](#Contributors)
-  - [Community Exchange](#CommunityExchange)
-- [Donators](#Donators)
-- [Sponsors](#Sponsors)
-- [Thanks](#Thanks)
-- [License](#License)
+<span id="nav-2"></span>
 
-## :information_source: <span id="Introductions"></span>Introductions
+## 📚 Contents
 
-`TigaUI` is a high quality component library based on `vue2.x`
+- [Internationalization](#nav-1)
+- [Contents](#nav-2)
+- [Introductions](#nav-3)
+  - [OfficialWebsite](#nav-3-1)
+- [Demo](#nav-4)
+- [Features](#nav-5)
+- [Architecture](#nav-6)
+- [Getting Started](#nav-7)
+- [Authors](#nav-8)
+- [Contributors](#nav-9)
+  - [Community Exchange](#nav-9-1)
+- [Release History](CHANGE.md)
+- [Donators](#nav-11)
+- [Sponsors](#nav-12)
+- [Thanks](#nav-13)
+- [License](#nav-14)
 
-### :bell: <span id="OfficialWebsite"></span>Official Website
+<span id="nav-3"></span>
+
+## ℹ️ Introductions
+
+`TigaUI` is a high quality component library based on `vue3.x`
+
+<span id="nav-3-1"></span>
+
+### 🔔 Official Website
 
 [WebSite https://tigaui.tigateam.com](https://tigaui.tigateam.com)
 
-## :foggy: <span id="Demo"></span>Demo
+<span id="nav-4"></span>
 
-## :large_blue_diamond: <span id="Example"></span>Example
+## 🌅 Demo
 
-## :eight_spoked_asterisk: <span id="Features"></span>Features
+<span id="nav-5"></span>
 
-- :white_check_mark: Button 按钮
-- :white_large_square: Container 布局容器
-- :white_large_square: Icon 图标
-- :white_large_square: Link 链接
+## ✳️ Features
 
-## :leaves: <span id="Architecture"></span>Architecture
+<span id="nav-6"></span>
 
-## :gem: <span id="Installation"></span>Installation
+## 🍊 Architecture
 
-## :stuck_out_tongue_winking_eye: <span id="Authors"></span>Authors
+<span id="nav-7"></span>
 
-## :stars: <span id="Contributors"></span>Contributors
+## 💎 Getting Started
+
+<span id="nav-8"></span>
+
+## 🙆 Authors
+
+<span id="nav-9"></span>
+
+## 🌟 Contributors
 
 [Contributors](https://github.com/tigateam/tiga-ui/graphs/contributors)
 
-### :dizzy: <span id="CommunityExchange"></span>Community Exchange
+<span id="nav-9-1"></span>
 
-## :coffee: <span id="Donators"></span>Donators
+### 😵 Community Exchange
 
-## :moneybag: <span id="Sponsors"></span>Sponsors
+<span id="nav-11"></span>
 
-## :clap: <span id="Thanks"></span>Thanks
+## ☕Donators
 
-- :green_heart: [Element](https://element.eleme.cn/#/zh-CN)
-- :green_heart: [ViewUI](https://iviewui.com/)
+<span id="nav-12"></span>
 
-## :copyright: <span id="License"></span>License
+## 💰Sponsors
+
+<span id="nav-13"></span>
+
+## 👏Thanks
+
+<span id="nav-14"></span>
+
+## ©️License
 
 [License MIT](LICENSE)
