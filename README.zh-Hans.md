@@ -94,6 +94,8 @@
 
 ## 👏 鸣谢
 
+<a href="https://www.jetbrains.com/?from=Tigaui"><img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/jetbrains.png" height="120" alt="JetBrains"/></a>
+
 <span id="nav-14"></span>
 
 ## ©️ 版权许可
