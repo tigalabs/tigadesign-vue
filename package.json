@@ -1,10 +1,10 @@
 {
-  "name": "@tigateam/tiga-ui",
-  "version": "0.0.7",
-  "description": "TigaUI is a high quality component library based on `vue2.x`",
+  "name": "@tigateam/tigaui",
+  "version": "0.0.1",
+  "description": "🎨 Tigaui is a high quality component library based on Vue",
   "main": "index.js",
   "scripts": {
-    "test":"",
+    "test": "",
     "serve:doc": "",
     "build:doc": "",
     "build": "npm-run-all --parallel build:**",
