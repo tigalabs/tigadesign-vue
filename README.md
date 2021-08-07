@@ -3,7 +3,7 @@
   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@master/gravatar_tigateam.png" width="40%" /><br/>
 </p>
 <p align="center">
-`Tigaui` is a high quality component library based on `vue3.x`
+Tigaui is a high quality component library based on Vue
 </p>
 
 <span id="nav-1"></span>

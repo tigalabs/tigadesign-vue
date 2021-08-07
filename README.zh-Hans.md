@@ -3,7 +3,7 @@
   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@master/gravatar_tigateam.png" width="40%" /><br/>
 </p>
 <p align="center">
-`Tigaui` 是一个基于 `Vue3.x` 的高质量组件库
+Tigaui 是一个基于 Vue 的高质量组件库
 </p>
 
 <span id="nav-1"></span>
